@@ -1,0 +1,41 @@
+button{
+    width:250px;
+    height: 30px;
+    background-color:hsl(0, 0%, 20%);
+    margin:5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:hsl(0, 0%, 100%);
+   
+
+}
+img {
+    border-radius: 50%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
+#box {
+    background-color: hsl(0, 0%, 12%);
+    width:min-content;
+    height: min-content;
+    border-radius: 5px;
+    padding: 50px;
+    
+}
+body {
+    background-color: hsl(0, 0%, 8%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    color:hsl(0, 0%, 100%);
+    text-align: center;
+}
+#city {
+    color:hsl(75, 94%, 57%);
+}
